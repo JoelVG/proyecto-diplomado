@@ -1,0 +1,38 @@
+CONSIDERACIONES:
+- no se están tomando en cuenta las respuestas de la opción "Otros" donde permite el ingreo libre de texto
+TASKS:
+- eliminar aquellas columnas que no tengan ningún dato
+
+p1: edad
+
+p2: navegar por internet
+
+p1a-p1d: razones por las cuales no se conecta a internet (múltiples razones en distintas columnas)
+
+^p11: uso de los equipos con los que cuenta (pc, tablet, cel, etc)
+
+^p27: para qué usa el internet
+
+Xp28: si tiene celular
+
+p37: si tiene internet en su celular
+
+p43: promedio de uso del internet en la semana
+
+^p46: actividades que realiza con frecuencia en internet
+
+^p47: información que busca en internet
+
+^p63: realiza trámites en las universidades (OPT rev)
+
+p68: dónde utilizaría internet
+
+p69-p71: revisar, cursos por internet (REV)
+
+^p131: fuentes donde consulta sobre ciencia y tecnología
+
+p148, p149: información personal
+
+p152: ocupación >> podemos filtrar a solo estudiantes (op 6) col 428
+
+

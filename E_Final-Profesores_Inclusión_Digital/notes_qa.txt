@@ -1,0 +1,49 @@
+a0-a4: información general del encuestado
+
+^b1: nivel de instuciión >> juntar en una sola variable, juntar en una sola variable, codificar respuestas
+
+b2: años de experiencia como profesor, servirá para ver la tendencia de las opiniones
+según la experiencia de los profesores.
+
+b6: área en la que imparte clases. podemos distinguir o ver si el impacto
+de las TICs es distinto entre distintas áreas
+
+^b71-^b74: profesores que dictan religión o física por ejm (OPT REVISAR)
+
+c1-c6: información sobre los materiales dispositivos tecnológicos con los que cuenta
+el profesor. (OPT REVISAR)
+
+^c9: información sobre el uso común que un profesor le da a sus dispositivos (OPT REVISAR)
+
+e1-e5: información sobre el acceso a internet con el que cuenta >> separar en
+una sola variable > codificar las respuestas en una sola columna
+
+^e6: uso del internet >> codificar respuestas en una sola columna
+
+^e9: conocimiento de sitios de información (OP REVISAR)
+
+^f: conocimientos básicos/medios/avanzados >> definir pesos para las preguntas
+
+h1-h7: conocimiento sobre tecnologías libres y TICs >> análisis para determinar 
+qué tanto saben, si lo aplican y cómo aplican
+
+i1-i6: conocimiento sobre el uso específico de las KUAA(investigar proyecto, obj, visiones,
+expectativas, etc para poner como ejm satisfactorio o fallido del impulso de las TICs
+en la educación)
+
+^j11: conocimiento específico sobre las KUAA y su posible uso en las aulas, también
+sobre cuál es la principal fuente de consulta sobre TICs del profesor; si es su
+director, algún personal encargado, etc.
+
+j2: predisposición de enseñar sobre software libre porque si bien la principal
+dificultad de la inclusión de TICs es el conocimiento; es importante que los profesores
+estén dispuestos tanto a aprender como a enseñar
+
+^k1: uso de recursos digitales o que involucren TICs 
+
+^k2: fuente de obtención de los recursos que se usan en las clases. Resaltar el uso
+de las TICs u otra fuente de información y concluir si se usan con frecuencia o no.
+
+k6-k8: integración delas KUAA para la retroalimentación de los estudiantes
+
+m1-m10: sobre la inclusión digital >> análisis de sentimientos de las opiniones

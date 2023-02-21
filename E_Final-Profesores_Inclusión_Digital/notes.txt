@@ -1,0 +1,6 @@
+ref: https://datos.gob.bo/dataset/encuesta-final-profesores-inclusion-digital
+dataset: profesores_fin
+preguntas más relevantes para nuestro caso de estudio: main_qcodes.txt
+
+columns deleted: (CORRUPTED)
+9,14,59,98,230,234,238,242,253,257,261,265,270,279,352,372,386

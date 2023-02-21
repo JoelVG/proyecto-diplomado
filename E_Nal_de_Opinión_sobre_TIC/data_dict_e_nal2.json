@@ -1,0 +1,5082 @@
+[
+    {
+        "nq": "2",
+        "question": "¿Me podría decir su edad por favor?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "3",
+        "question": "¿Usted ha navegado por Internet o se ha conectado a alguna r ed social a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "4",
+        "question": "¿Cuándo fue la última vez que navegó en Internet o estuvo co nectado a las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Hace 7 días o menos",
+            "2": "Entre 8 a 15 días",
+            "3": "Entre 16 a 30 días",
+            "4": "Hace más de 30 días"
+        }
+    },
+    {
+        "nq": "5",
+        "question": "¿Cuáles son las razones por las cuales no se conecta a Inte rnet regularmente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No existe el servicio en el barrio/localidad",
+            "2": "El costo del servicio alto",
+            "3": "No tiene equipos para conectarse",
+            "4": "No sabe qué es Internet",
+            "5": "No sabe cómo usar Internet",
+            "6": "No está interesado en Internet",
+            "7": "El contenido de Internet es malo",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "6",
+        "question": "¿Cuáles son las razones por las cuales no se conecta a Inte rnet regularmente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No existe el servicio en el barrio/localidad",
+            "2": "El costo del servicio alto",
+            "3": "No tiene equipos para conectarse",
+            "4": "No sabe qué es Internet",
+            "5": "No sabe cómo usar Internet",
+            "6": "No está interesado en Internet",
+            "7": "El contenido de Internet es malo",
+            "8": "OtroP1B",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "7",
+        "question": "¿Cuáles son las razones por las cuales no se conecta a Inte rnet regularmente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No existe el servicio en el barrio/localidad",
+            "2": "El costo del servicio alto",
+            "3": "No tiene equipos para conectarse",
+            "4": "No sabe qué es Internet",
+            "5": "No sabe cómo usar Internet",
+            "6": "No está interesado en Internet",
+            "7": "El contenido de Internet es malo",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "8",
+        "question": "¿Cuáles son las razones por las cuales no se conecta a Inte rnet regularmente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No existe el servicio en el barrio/localidad",
+            "2": "El costo del servicio alto",
+            "3": "No tiene equipos para conectarse",
+            "4": "No sabe qué es Internet",
+            "5": "No sabe cómo usar Internet",
+            "6": "No está interesado en Internet",
+            "7": "El contenido de Internet es malo",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "9",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "10",
+        "question": "En los últimos 6 meses, �Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Obtener información",
+            "2": "Descargar/imprimir documentos",
+            "3": "Obtener algún formulario",
+            "4": "Enviar/recibir correo electrónico",
+            "5": "Contactar a algún familiar/amigo",
+            "6": "Comprar/pagar artículos/servicios por Internet",
+            "7": "Revisar alguna red social (Facebook, WhatsApp, etc)",
+            "8": "Otro",
+            "9": "NingunoP2A",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "11",
+        "question": "En los últimos 6 meses, �Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Obtener información",
+            "2": "Descargar/imprimir documentos",
+            "3": "Obtener algún formulario",
+            "4": "Enviar/recibir correo electrónico",
+            "5": "Contactar a algún familiar/amigo",
+            "6": "Comprar/pagar artículos/servicios por Internet",
+            "7": "Revisar alguna red social (Facebook, WhatsApp, etc)",
+            "8": "Otro",
+            "9": "Ninguno"
+        }
+    },
+    {
+        "nq": "12",
+        "question": "En los últimos 6 meses, �Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Obtener información",
+            "2": "Descargar/imprimir documentos",
+            "3": "Obtener algún formulario",
+            "4": "Enviar/recibir correo electrónico",
+            "5": "Contactar a algún familiar/amigo",
+            "6": "Comprar/pagar artículos/servicios por Internet",
+            "7": "Revisar alguna red social (Facebook, WhatsApp, etc)",
+            "8": "Otro",
+            "9": "Ninguno"
+        }
+    },
+    {
+        "nq": "13",
+        "question": "En los últimos 6 meses, �Ha solicitado a algún conocido que realice en Internet alguna de las siguientes actividades por usted?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Obtener información",
+            "2": "Descargar/imprimir documentos",
+            "3": "Obtener algún formulario",
+            "4": "Enviar/recibir correo electrónico",
+            "5": "Contactar a algún familiar/amigo",
+            "6": "Comprar/pagar artículos/servicios por Internet",
+            "7": "Revisar alguna red social (Facebook, WhatsApp, etc)",
+            "8": "Otro",
+            "9": "Ninguno"
+        }
+    },
+    {
+        "nq": "14",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "NominalValores",
+        "options": {
+            "P2E": "",
+            "Atributos": "",
+            "estándarAtributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "15",
+        "question": "¿Más o menos cuántas veces ha solicitado esta ayuda en el ú ltimo mes?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "16",
+        "question": "¿Si tuviera acceso a Internet, usted estaría... ?.... usar Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Muy interesado",
+            "2": "M�s o menos interesado",
+            "3": "Poco interesado",
+            "4": "Nada interesado",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "17",
+        "question": "¿Tiene teléfono fijo en su casa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "18",
+        "question": "¿Cuánto pagan al mes por este servicio?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "98": "No tiene el servicio",
+            "99": "NS/NR"
+        }
+    },
+    {
+        "nq": "19",
+        "question": "¿Tiene computadora de escritorio, computadora portátil o tab let en su casa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "20",
+        "question": "¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (MESES)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "21",
+        "question": "¿Cuándo fue la última vez que en su casa compraron alguno de estos equipos? (AÑOS)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "22",
+        "question": "Y la última vez ¿Compraron una computadora de escritorio, un a computadora portátil o una táblet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Computadora de escritorio",
+            "2": "Computadora portátil",
+            "3": "Tablet",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "23",
+        "question": "¿Cuánto pagaron aproximadamente por ese equipo?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "24",
+        "question": "¿Más o menos cuántos días a la semana usa computadora de es critorio, computadora portátil o tablet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "8": "Menos de una vez por semana",
+            "9": "No usa estos equipos"
+        }
+    },
+    {
+        "nq": "25",
+        "question": "¿Qué usos le da usted a estos equipos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Herramienta de trabajo",
+            "2": "Escuchar música o ver videos",
+            "3": "Juegos",
+            "4": "Conectarse a Internet",
+            "5": "Estudio",
+            "6": "OtroP11A",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "26",
+        "question": "¿Qué usos le da usted a estos equipos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Herramienta de trabajo",
+            "2": "Escuchar música o ver videos",
+            "3": "Juegos",
+            "4": "Conectarse a Internet",
+            "5": "Estudio",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "27",
+        "question": "¿Qué usos le da usted a estos equipos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Herramienta de trabajo",
+            "2": "Escuchar música o ver videos",
+            "3": "Juegos",
+            "4": "Conectarse a Internet",
+            "5": "Estudio",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "28",
+        "question": "¿Qué usos le da usted a estos equipos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Herramienta de trabajo",
+            "2": "Escuchar música o ver videos",
+            "3": "Juegos",
+            "4": "Conectarse a Internet",
+            "5": "Estudio",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "29",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "30",
+        "question": "¿Tiene televisor en su casa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "31",
+        "question": "¿Cuándo fue la última vez que en su casa compraron un telev isor? (MESES)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "32",
+        "question": "¿Cuándo fue la última vez que en su casa compraron un telev isor? (AÑOS)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "33",
+        "question": "¿Cuánto pagaron aproximadamente por ese televisor?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "34",
+        "question": "¿Qué tipo de programas son los que más le gusta mirar en te levisión?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias",
+            "2": "Deportes",
+            "3": "Salud y educación",
+            "4": "Entretenimiento (series, novelas, pel �culas, far�ndula, moda, concursos)",
+            "5": "Otro",
+            "6": "No mira televisión"
+        }
+    },
+    {
+        "nq": "35",
+        "question": "¿Qué tipo de programas son los que más le gusta mirar en te levisión?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias",
+            "2": "Deportes",
+            "3": "Salud y educación",
+            "4": "Entretenimiento (series, novelas, pel �culas, far�ndula, moda, concursos)",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "36",
+        "question": "¿Qué tipo de programas son los que más le gusta mirar en te levisión?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias",
+            "2": "Deportes",
+            "3": "Salud y educación",
+            "4": "Entretenimiento (series, novelas, pel �culas, far�ndula, moda, concursos)",
+            "5": "Otro",
+            "6": "No mira televisión"
+        }
+    },
+    {
+        "nq": "37",
+        "question": "¿Qué tipo de programas son los que más le gusta mirar en te levisión?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias",
+            "2": "Deportes",
+            "3": "Salud y educación",
+            "4": "Entretenimiento (series, novelas, pel �culas, far�ndula, moda, concursos)",
+            "5": "Otro",
+            "6": "No mira televisión"
+        }
+    },
+    {
+        "nq": "38",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "39",
+        "question": "¿En su casa usted tiene servicio de TV Cable?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "40",
+        "question": "¿En su casa usted tiene servicio de TV Satelital?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoP17",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "41",
+        "question": "¿Cuánto pagan al mes por este servicio de Tv cable/Tv satel ital?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "43",
+        "question": "¿Tiene radio en su casa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "44",
+        "question": "¿Cuándo fue la última vez que compraron una radio en su cas a? (MESES)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "45",
+        "question": "¿Cuándo fue la última vez que compraron una radio en su cas a? (AÑOS)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "46",
+        "question": "¿Cuánto pagaron aproximadamente?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "47",
+        "question": "¿Tiene Internet fijo en su casa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Internet fijo",
+            "2": "Módem",
+            "3": "Ninguno"
+        }
+    },
+    {
+        "nq": "48",
+        "question": "¿Cuánto pagan al mes por este servicio?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "49",
+        "question": "¿De qué velocidad es el plan que contrataron?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "128 kbps",
+            "2": "256 kbps",
+            "3": "512 kbps",
+            "4": "1 a 2 Mbps",
+            "5": "De + de 2 a 3 Mbps",
+            "6": "De + de 3 Mbps",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "50",
+        "question": "Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a este servicio de Internet fijo?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "51",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "52",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?Valores válidos P27B",
+        "qtype": null,
+        "rtype": null,
+        "options": {}
+    },
+    {
+        "nq": "53",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "54",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+        }
+    },
+    {
+        "nq": "55",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "56",
+        "question": "¿Para qué usa mayormente esta conexión a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "57",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "58",
+        "question": "¿Tiene celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "61",
+        "question": "¿Cuánto pagó o pagaron aproximadamente la última vez?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "62",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos"
+        }
+    },
+    {
+        "nq": "63",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "64",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "65",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "66",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "67",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "68",
+        "question": "¿Qué usos le da a su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Llamadas telefónicas",
+            "2": "Mensajes de texto SMS",
+            "3": "Escuchar música",
+            "4": "Ver videos",
+            "5": "Juegos",
+            "6": "Conectarse a Internet",
+            "7": "Sacar fotos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "69",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "NominalP31F",
+        "options": {
+            "Atributos": ""
+        }
+    },
+    {
+        "nq": "70",
+        "question": "¿En su celular tiene el servicio de prepago o de pospago?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Prepago",
+            "2": "Pospago",
+            "3": "Ambos"
+        }
+    },
+    {
+        "nq": "71",
+        "question": "¿De qué empresa tiene este servicio?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tigo",
+            "2": "Entel",
+            "3": "Viva",
+            "4": "Mio (Comteco)"
+        }
+    },
+    {
+        "nq": "72",
+        "question": "¿Cuánto gasta en promedio al mes por el servicio de llamada s telefónicas y mensajes de texto?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "73",
+        "question": "Del 1 al 5, donde 1 es p �simo y 5 es excelente �qu� puntaje le dar �a al servicio de ??",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "74",
+        "question": "¿Qué sistema operativo tiene su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Android",
+            "2": "IOS (iPhone)",
+            "3": "Windows",
+            "4": "Otro"
+        }
+    },
+    {
+        "nq": "75",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "76",
+        "question": "¿Usted tiene Internet en su celular?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "77",
+        "question": "¿Cuánto paga al mes en promedio por el servicio de Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "78",
+        "question": "¿Más o menos cu �ntos megas consume en promedio? (CANTIDAD)",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "79",
+        "question": "¿Más o menos cu �ntos megas consume en promedio? (TIEMPO)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Día",
+            "2": "Semana",
+            "3": "Mes"
+        }
+    },
+    {
+        "nq": "81",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "82",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "83",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "84",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "85",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "86",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+        }
+    },
+    {
+        "nq": "87",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "88",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "89",
+        "question": "¿Para qué usa mayormente la conexión a Internet en su celul ar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Compras en Internet",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico",
+            "12": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "90",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "91",
+        "question": "A parte de Internet en el hogar o de Internet m �vil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En el trabajo",
+            "2": "En el Colegio",
+            "3": "En la Universidad",
+            "4": "Telecentro",
+            "5": "Cafe Internet",
+            "6": "Restaurantes, cafes",
+            "7": "Espacios públicos",
+            "8": "Casa de amigos/familiares",
+            "9": "Otro",
+            "11": "Ninguno"
+        }
+    },
+    {
+        "nq": "92",
+        "question": "A parte de Internet en el hogar o de Internet m �vil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En el trabajo",
+            "2": "En el Colegio",
+            "3": "En la Universidad",
+            "4": "Telecentro",
+            "5": "Cafe Internet",
+            "6": "Restaurantes, cafes",
+            "7": "Espacios públicos",
+            "8": "Casa de amigos/familiares",
+            "9": "Otro",
+            "11": "Ninguno"
+        }
+    },
+    {
+        "nq": "93",
+        "question": "A parte de Internet en el hogar o de Internet m �vil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En el trabajo",
+            "2": "En el Colegio",
+            "3": "En la Universidad",
+            "4": "Telecentro",
+            "5": "Cafe Internet",
+            "6": "Restaurantes, cafes",
+            "7": "Espacios públicos",
+            "8": "Casa de amigos/familiares",
+            "9": "Otro",
+            "11": "Ninguno"
+        }
+    },
+    {
+        "nq": "95",
+        "question": "A parte de Internet en el hogar o de Internet m �vil en el celular, ¿En qué otro lugar se ha conectado a Internet en el último mes?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En el trabajo",
+            "2": "En el Colegio",
+            "3": "En la Universidad",
+            "4": "Telecentro",
+            "5": "Cafe Internet",
+            "6": "Restaurantes, cafes",
+            "7": "Espacios públicos",
+            "8": "Casa de amigos/familiares",
+            "9": "Otro",
+            "11": "Ninguno"
+        }
+    },
+    {
+        "nq": "96",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "97",
+        "question": "¿En promedio, cuántos días a la semana utiliza Internet (ya sea fijo o móvil)?",
+        "qtype": "Numérico",
+        "rtype": "NominalAtributos",
+        "options": {
+            "estándarP42D": "",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "98",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "99",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "100",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "101",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "102",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento"
+        }
+    },
+    {
+        "nq": "103",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "104",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "105",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "106",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "107",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento"
+        }
+    },
+    {
+        "nq": "108",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "109",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "110",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "111",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "112",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "113",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "114",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "115",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "116",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "117",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "118",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "119",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "120",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "121",
+        "question": "¿De lunes a viernes, en qué horarios se conecta a Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "122",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "123",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "124",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "125",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "126",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "127",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "128",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "129",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "130",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "131",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "132",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "133",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "134",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "135",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "136",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "137",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "138",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "139",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "140",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "141",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "142",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "143",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "144",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "145",
+        "question": "¿Los fines de semana, en qué horarios se conecta a Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+	{
+        "nq": "147",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "148",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "149",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "150",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "151",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "152",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+	{
+        "nq": "153",
+        "question": "¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+			"1": "Contactar amigos o familiares",
+            "2": "Buscar información",
+            "3": "Comprar, vender o permutar",
+            "4": "Fines académicos",
+            "5": "Trabajo",
+            "6": "Ver noticias",
+            "7": "Descargar archivos",
+            "8": "Jugar",
+            "9": "Escuchar música o ver videos",
+            "10": "Redes sociales",
+            "11": "Correo electrónico"
+		}
+    },
+    {
+        "nq": "154",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "155",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "OtroAtributos"
+        }
+    },
+    {
+        "nq": "156",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "Otro"
+        }
+    },
+    {
+        "nq": "157",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "Otro"
+        }
+    },
+    {
+        "nq": "158",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "159",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "Otro"
+        }
+    },
+    {
+        "nq": "160",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "Otro"
+        }
+    },
+    {
+        "nq": "161",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "OtroP47H",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "162",
+        "question": "¿Qué tipo de información busca en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Noticias (periódicos, etc.)",
+            "2": "Oferta de bienes o servicios",
+            "3": "Oportunidades laborales",
+            "4": "Servicios de salud",
+            "5": "Ciencia y/o tecnología",
+            "6": "Servicios del gobierno",
+            "7": "Entretenimiento/farándula",
+            "8": "Turismo",
+            "9": "Educativa",
+            "10": "Negocios",
+            "11": "Política",
+            "12": "Arte y cultura",
+            "13": "Otro"
+        }
+    },
+    {
+        "nq": "163",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "164",
+        "question": "¿Cuáles son las tres páginas web nacionales que más visita?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "165",
+        "question": "¿Cuáles son las tres páginas web nacionales que más visita?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "166",
+        "question": "¿Cuáles son las tres páginas web nacionales que más visita?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "167",
+        "question": "¿Cuáles son las tres páginas web internacionales que más vi sita?",
+        "qtype": "Cadena",
+        "rtype": "NominalP49A",
+        "options": {
+            "Atributos": "",
+            "estándarAtributos": "",
+            "estándar": "",
+            "P48C": "",
+            "P48A": "",
+            "P48BAtributos": ""
+        }
+    },
+    {
+        "nq": "168",
+        "question": "¿Cuáles son las tres páginas web internacionales que más vi sita?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "169",
+        "question": "¿Cuáles son las tres páginas web internacionales que más vi sita?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "171",
+        "question": "Completar y enviar formularios de trámites en el sector púb lico",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "173",
+        "question": "Buscar información sobre las entidades del Estado",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "174",
+        "question": "Realizar trámites completamente a través de Internet",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "175",
+        "question": "En su criterio, ¿Cuál de las siguientes características es la más importante en la realización de trámites en instituciones públicas?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Claridad de la información",
+            "2": "Privacidad",
+            "3": "Trato cordial",
+            "4": "Rapidez",
+            "5": "Cantidad de requisitos",
+            "6": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "176",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "177",
+        "question": "La realización de trámites en las instituciones públicas?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "178",
+        "question": "Los servicios que presta el Estado a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "179",
+        "question": "Del Gobierno Nacional",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "180",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "181",
+        "question": "Del Gobierno Municipal",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "182",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "183",
+        "question": "De la Gobernación (Prefectura)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "184",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "185",
+        "question": "Del Poder Judicial",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "186",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "187",
+        "question": "Del Tribunal Supremo Electoral",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "188",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "189",
+        "question": "De las Universidades",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "190",
+        "question": "¿Usualmente realiza trámites en estas páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "191",
+        "question": "¿Según su opinión, qué información de las instituciones púb licas debería estar disponible en Internet en primer lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Datos estadísticos",
+            "2": "Informaci �n general sobre la institución y su organización interna",
+            "3": "Actividades y proyectos de la institución",
+            "4": "Libros, memorias, boletines y otras publicaciones",
+            "5": "Requerimiento de personal",
+            "6": "Compras y contrataciones",
+            "7": "Tr�mites y requisitos",
+            "8": "Auditoría interna",
+            "9": "Información sobre las actividades de las autoridades",
+            "11": "Normativas que rigen las funciones de la entidad",
+            "12": "Otro",
+            "99": "NS/NR"
+        }
+    },
+    {
+        "nq": "192",
+        "question": "¿Según su opinión, qué información de las instituciones púb licas debería estar disponible en Internet en en segundo lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Datos estadísticos",
+            "2": "Informaci �n general sobre la institución y su organización interna",
+            "3": "Actividades y proyectos de la institución",
+            "4": "Libros, memorias, boletines y otras publicaciones",
+            "5": "Requerimiento de personal",
+            "6": "Compras y contrataciones",
+            "7": "Tr�mites y requisitos",
+            "8": "Auditoría interna",
+            "9": "Información sobre las actividades de las autoridades",
+            "11": "Normativas que rigen las funciones de la entidad",
+            "12": "Otro",
+            "99": "NS/NR"
+        }
+    },
+    {
+        "nq": "193",
+        "question": "¿Según su opinión, qué información de las instituciones púb licas debería estar disponible en Internet en tercer lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Datos estadísticos",
+            "2": "Informaci �n general sobre la institución y su organización interna",
+            "3": "Actividades y proyectos de la institución",
+            "4": "Libros, memorias, boletines y otras publicaciones",
+            "5": "Requerimiento de personal",
+            "6": "Compras y contrataciones",
+            "7": "Tr�mites y requisitos",
+            "8": "Auditoría interna",
+            "9": "Información sobre las actividades de las autoridades",
+            "11": "Normativas que rigen las funciones de la entidad",
+            "12": "Otro",
+            "99": "NS/NRAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "194",
+        "question": "¿Según su opinión, qué información de las instituciones púb licas debería estar disponible en Internet en cuarto lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Datos estadísticos",
+            "2": "Informaci �n general sobre la institución y su organización interna",
+            "3": "Actividades y proyectos de la institución",
+            "4": "Libros, memorias, boletines y otras publicaciones",
+            "5": "Requerimiento de personal",
+            "6": "Compras y contrataciones",
+            "7": "Tr�mites y requisitos",
+            "8": "Auditoría interna",
+            "9": "Información sobre las actividades de las autoridades",
+            "11": "Normativas que rigen las funciones de la entidad",
+            "12": "Otro",
+            "99": "NS/NR"
+        }
+    },
+    {
+        "nq": "195",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "198",
+        "question": "¿A qué institución sigue?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "199",
+        "question": "Del 1 al 5, donde 1 es pésimo y 5 es excelente",
+        "qtype": "Numérico",
+        "rtype": "NominalAtributos",
+        "options": {}
+    },
+    {
+        "nq": "200",
+        "question": "¿A qué institución sigue?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "201",
+        "question": "Del 1 al 5, donde 1 es pésimo y 5 es excelente",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "202",
+        "question": "¿A qué institución sigue?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "203",
+        "question": "Del 1 al 5, donde 1 es pésimo y 5 es excelente",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "204",
+        "question": "¿Utiliza o utiliza Internet en?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "El Colegio",
+            "2": "La Universidad",
+            "3": "No usa/no usó"
+        }
+    },
+    {
+        "nq": "205",
+        "question": "¿Ha realizado algún curso, diplomado o maestría por Interne t?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "206",
+        "question": "Del 1 al 5, donde 1 es pésimo y 5 es excelente ¿qué puntaje le daría a la experiencia de aprendizaje del curso, diplomado o maestría por Internet?",
+        "qtype": "Numérico",
+        "rtype": "NominalAtributos",
+        "options": {
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "207",
+        "question": "¿Usted preferiría realizar un curso, diplomado o maestráa p or Internet, o de manera presencial?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En línea",
+            "2": "Presencial"
+        }
+    },
+    {
+        "nq": "208",
+        "question": "¿Por qué?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Es más cómodo",
+            "2": "Permite profundizar en la materia",
+            "3": "Se acomoda a mis horarios",
+            "4": "Tiene mayor validez",
+            "5": "Me ahorra tiempo",
+            "6": "Se aprende mejor",
+            "7": "Otro",
+            "8": "NS/NR"
+        }
+    },
+    {
+        "nq": "209",
+        "question": "¿Por qué?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Es más cómodo",
+            "2": "Permite profundizar en la materia",
+            "3": "Se acomoda a mis horarios",
+            "4": "Tiene mayor validez",
+            "5": "Me ahorra tiempo",
+            "6": "Se aprende mejor",
+            "7": "Otro",
+            "8": "NS/NR"
+        }
+    },
+    {
+        "nq": "210",
+        "question": "¿Por qué?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Es más cómodo",
+            "2": "Permite profundizar en la materia",
+            "3": "Se acomoda a mis horarios",
+            "4": "Tiene mayor validez",
+            "5": "Me ahorra tiempo",
+            "6": "Se aprende mejor",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "211",
+        "question": "¿Por qué?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Es más cómodo",
+            "2": "Permite profundizar en la materia",
+            "3": "Se acomoda a mis horarios",
+            "4": "Tiene mayor validez",
+            "5": "Me ahorra tiempo",
+            "6": "Se aprende mejor",
+            "7": "Otro",
+            "8": "NS/NR"
+        }
+    },
+    {
+        "nq": "212",
+        "question": "¿Por qué?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Es más cómodo",
+            "2": "Permite profundizar en la materia",
+            "3": "Se acomoda a mis horarios",
+            "4": "Tiene mayor validez",
+            "5": "Me ahorra tiempo",
+            "6": "Se aprende mejor",
+            "7": "Otro",
+            "8": "NS/NR"
+        }
+    },
+    {
+        "nq": "213",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "214",
+        "question": "¿Trabaja o ha trabajado alguna vez?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "215",
+        "question": "�Usted dir�a que utiliza/utiliz � el Internet para su actividad econ �mica o laboral ?mucho?, ?m �s o menos? o ?muy poco??",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mucho",
+            "2": "Más o menos",
+            "3": "Muy poco",
+            "4": "No usa"
+        }
+    },
+    {
+        "nq": "216",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "217",
+        "question": "¿Realiza/realizó algún trabajo o negocio gracias a contacto s...?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "218",
+        "question": "¿Su actividad laboral o negocio está vinculado a las tecnol ogías...",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "219",
+        "question": "¿Ha realizado alguna compra a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "220",
+        "question": "¿Por qué no compré por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No poseo una tarjeta de débito o crédito",
+            "2": "No confío en las ofertas en Internet",
+            "3": "El costo del transporte y/o impuestos son altos",
+            "4": "No existen suficientes ofertas en/para Bolivia",
+            "5": "Pago elevado de comisiones",
+            "6": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "221",
+        "question": "¿Por qué no compré por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No poseo una tarjeta de débito o crédito",
+            "2": "No confío en las ofertas en Internet",
+            "3": "El costo del transporte y/o impuestos son altos",
+            "4": "No existen suficientes ofertas en/para Bolivia",
+            "5": "Pago elevado de comisiones",
+            "6": "Otro",
+            "9": "NS/NRAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "222",
+        "question": "¿Por qué no compré por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "No poseo una tarjeta de débito o crédito",
+            "2": "No confío en las ofertas en Internet",
+            "3": "El costo del transporte y/o impuestos son altos",
+            "4": "No existen suficientes ofertas en/para Bolivia",
+            "5": "Pago elevado de comisiones",
+            "6": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "223",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "224",
+        "question": "¿Generalmente realiza compras a través de Internet a empres as nacionales o empresas internacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Nacionales",
+            "2": "Internacionales",
+            "3": "Ambas"
+        }
+    },
+    {
+        "nq": "225",
+        "question": "¿A través de qué sitios web o plataformas generalmente real iza sus compras en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Whatsapp",
+            "3": "Sitios web",
+            "4": "Plataforma de compra/venta (Amazon/ebay)",
+            "5": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "226",
+        "question": "¿A través de qué sitios web o plataformas generalmente real iza sus compras en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Whatsapp",
+            "3": "Sitios web",
+            "4": "Plataforma de compra/venta (Amazon/ebay)",
+            "5": "Otro",
+            "9": "NS/NRAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "227",
+        "question": "¿A través de qué sitios web o plataformas generalmente real iza sus compras en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Whatsapp",
+            "3": "Sitios web",
+            "4": "Plataforma de compra/venta (Amazon/ebay)",
+            "5": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "228",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "229",
+        "question": "¿Generalmente qué forma de pago usa para comprar en Interne t?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito propia",
+            "2": "Tarjeta de crédito de amigo/familiar",
+            "3": "Tarjeta de débito",
+            "4": "Paypal",
+            "5": "Billetera electrónica",
+            "6": "Dep�sito/giro",
+            "7": "Pago en efectivo",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "230",
+        "question": "¿Generalmente qué forma de pago usa para comprar en Interne t?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito propia",
+            "2": "Tarjeta de crédito de amigo/familiar",
+            "3": "Tarjeta de débito",
+            "4": "Paypal",
+            "5": "Billetera electrónica",
+            "6": "Dep�sito/giro",
+            "7": "Pago en efectivo",
+            "8": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "231",
+        "question": "¿Generalmente qué forma de pago usa para comprar en Interne t?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito propia",
+            "2": "Tarjeta de crédito de amigo/familiar",
+            "3": "Tarjeta de débito",
+            "4": "Paypal",
+            "5": "Billetera electrónica",
+            "6": "Dep�sito/giro",
+            "7": "Pago en efectivo",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "232",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "233",
+        "question": "Sin contar el pago por servicios básicos ¿Qué productos o s ervicios compró por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros físicos/electrónicos",
+            "3": "Viajes (pasajes, hoteles)",
+            "4": "Entradas a eventos",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica o películas",
+            "12": "Servicios de streaming (netflix, spotify)",
+            "13": "Pago de anuncios publicitarios",
+            "14": "Servicios de hosting y dominio",
+            "15": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "234",
+        "question": "Sin contar el pago por servicios básicos ¿Qué productos o s ervicios compró por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros físicos/electrónicos",
+            "3": "Viajes (pasajes, hoteles)",
+            "4": "Entradas a eventos",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica o películas",
+            "12": "Servicios de streaming (netflix, spotify)",
+            "13": "Pago de anuncios publicitarios",
+            "14": "Servicios de hosting y dominio",
+            "15": "Otro"
+        }
+    },
+    {
+        "nq": "235",
+        "question": "Sin contar el pago por servicios básicos ¿Qué productos o s ervicios compró por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros físicos/electrónicos",
+            "3": "Viajes (pasajes, hoteles)",
+            "4": "Entradas a eventos",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica o películas",
+            "12": "Servicios de streaming (netflix, spotify)",
+            "13": "Pago de anuncios publicitarios",
+            "14": "Servicios de hosting y dominio",
+            "15": "Otro"
+        }
+    },
+    {
+        "nq": "236",
+        "question": "Otros",
+        "qtype": "Cadena",
+        "rtype": "NominalValores",
+        "options": {
+            "P82D": "",
+            "Atributos": "",
+            "estándarAtributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "237",
+        "question": "¿Generalmente dónde recibe los productos que compra a travé s de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Casa/oficina",
+            "2": "Punto de encuentro",
+            "3": "Establecimiento/tienda",
+            "4": "Oficina de correos",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "238",
+        "question": "¿Generalmente dónde recibe los productos que compra a travé s de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Casa/oficina",
+            "2": "Punto de encuentro",
+            "3": "Establecimiento/tienda",
+            "4": "Oficina de correos",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "239",
+        "question": "¿Generalmente dónde recibe los productos que compra a travé s de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Casa/oficina",
+            "2": "Punto de encuentro",
+            "3": "Establecimiento/tienda",
+            "4": "Oficina de correos",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "240",
+        "question": "Otros",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "242",
+        "question": "¿Cuáles fueron sus principales motivaciones para comprar po r Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Falta de tiempo",
+            "2": "No existe el producto localmente",
+            "3": "Mejor precio",
+            "4": "Guardar anonimato",
+            "5": "Prefiero hacer mis compras en línea",
+            "6": "Comodidad",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "243",
+        "question": "¿Cuáles fueron sus principales motivaciones para comprar po r Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Falta de tiempo",
+            "2": "No existe el producto localmente",
+            "3": "Mejor precio",
+            "4": "Guardar anonimato",
+            "5": "Prefiero hacer mis compras en línea",
+            "6": "Comodidad",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "244",
+        "question": "¿Cuáles fueron sus principales motivaciones para comprar po r Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Falta de tiempo",
+            "2": "No existe el producto localmente",
+            "3": "Mejor precio",
+            "4": "Guardar anonimato",
+            "5": "Prefiero hacer mis compras en línea",
+            "6": "Comodidad",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "245",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "246",
+        "question": "¿Alguna vez ha vendido algo ofertándolo por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si"
+        }
+    },
+    {
+        "nq": "247",
+        "question": "¿Las ventas se realizaron en el mercado local o en el merca do internacional?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Local",
+            "2": "Internacional",
+            "3": "Ambas"
+        }
+    },
+    {
+        "nq": "251",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "NominalAtributos",
+        "options": {
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "252",
+        "question": "¿Cuál es la forma de cobro?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito",
+            "2": "Tarjeta de débito",
+            "3": "Paypal",
+            "4": "Billetera electrónica",
+            "5": "Pago en efectivo",
+            "6": "Depósito, giro",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "253",
+        "question": "¿Cuál es la forma de cobro?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito",
+            "2": "Tarjeta de débito",
+            "3": "Paypal",
+            "4": "Billetera electrónica",
+            "5": "Pago en efectivo",
+            "6": "Depósito, giro",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "254",
+        "question": "¿Cuál es la forma de cobro?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tarjeta de crédito",
+            "2": "Tarjeta de débito",
+            "3": "Paypal",
+            "4": "Billetera electrónica",
+            "5": "Pago en efectivo",
+            "6": "Depósito, giro",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "255",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "NominalAtributos",
+        "options": {
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "256",
+        "question": "¿Qué tipo de producto o servicio oferta/ofertó por Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros",
+            "3": "Viajes (pasajes, hoteles)",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica/películas",
+            "14": "Servicios de hosting y dominio",
+            "15": "Otro"
+        }
+    },
+    {
+        "nq": "257",
+        "question": "¿Qué tipo de producto o servicio oferta/ofertó por Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros",
+            "3": "Viajes (pasajes, hoteles)",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica/películas",
+            "14": "Servicios de hosting y dominio",
+            "15": "Otro"
+        }
+    },
+    {
+        "nq": "258",
+        "question": "¿Qué tipo de producto o servicio oferta/ofertó por Internet ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Equipos electrónicos",
+            "2": "Libros",
+            "3": "Viajes (pasajes, hoteles)",
+            "5": "Cursos",
+            "6": "Ropa y accesorios",
+            "7": "Art�culos para el hogar",
+            "8": "Art�culos para el cuidado personal",
+            "9": "Software",
+            "10": "Juegos",
+            "11": "M�sica/películas",
+            "14": "Servicios de hosting y dominio",
+            "15": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "259",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "260",
+        "question": "¿Cómo entregó o entrega el producto ofertado?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En un punto de encuentro",
+            "2": "En una tienda perteneciente al negocio",
+            "3": "Env�a por correo o courrier",
+            "4": "Entrega a domicilio",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "261",
+        "question": "¿Cómo entregó o entrega el producto ofertado?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En un punto de encuentro",
+            "2": "En una tienda perteneciente al negocio",
+            "3": "Env�a por correo o courrier",
+            "4": "Entrega a domicilio",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "262",
+        "question": "¿Cómo entregó o entrega el producto ofertado?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En un punto de encuentro",
+            "2": "En una tienda perteneciente al negocio",
+            "3": "Env�a por correo o courrier",
+            "4": "Entrega a domicilio",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "263",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "265",
+        "question": "¿Cuáles son sus principales motivaciones para vender por In ternet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mayor alcance de compradores",
+            "2": "Facilidad de administración",
+            "3": "Mejores precios",
+            "4": "Rapidez",
+            "5": "Anonimato",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "266",
+        "question": "¿Cuáles son sus principales motivaciones para vender por In ternet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mayor alcance de compradores",
+            "2": "Facilidad de administración",
+            "3": "Mejores precios",
+            "4": "Rapidez",
+            "5": "Anonimato",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "267",
+        "question": "¿Cuáles son sus principales motivaciones para vender por In ternet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mayor alcance de compradores",
+            "2": "Facilidad de administración",
+            "3": "Mejores precios",
+            "4": "Rapidez",
+            "5": "Anonimato",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "268",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "269",
+        "question": "�Usted dir�a que su actividad laboral principal est � directamente relacionada con la venta de productos en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "270",
+        "question": "Consulta de movimientos y saldos de su cuenta en el banco",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "271",
+        "question": "Transferencia entre cuentas bancarias",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "272",
+        "question": "Pagos de servicios o productos a través de su cuenta bancar ia",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "273",
+        "question": "¿Qué pagos realizó a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Servicios de telefonía o Internet",
+            "2": "Luz, tv cable, agua",
+            "3": "Créditos bancarios",
+            "4": "Pasajes aéreos",
+            "5": "Entradas a espectáculos",
+            "6": "Estudios, pensión escolar",
+            "7": "Impuestos",
+            "8": "Otros"
+        }
+    },
+    {
+        "nq": "274",
+        "question": "¿Qué pagos realizó a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Servicios de telefonía o Internet",
+            "2": "Luz, tv cable, agua",
+            "3": "Créditos bancarios",
+            "4": "Pasajes aéreos",
+            "5": "Entradas a espectáculos",
+            "6": "Estudios, pensión escolar",
+            "7": "Impuestos",
+            "8": "OtrosAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "275",
+        "question": "¿Qué pagos realizó a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Servicios de telefonía o Internet",
+            "2": "Luz, tv cable, agua",
+            "3": "Créditos bancarios",
+            "4": "Pasajes aéreos",
+            "5": "Entradas a espectáculos",
+            "6": "Estudios, pensión escolar",
+            "7": "Impuestos",
+            "8": "Otros"
+        }
+    },
+    {
+        "nq": "276",
+        "question": "¿Qué pagos realizó a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Servicios de telefonía o Internet",
+            "2": "Luz, tv cable, agua",
+            "3": "Créditos bancarios",
+            "4": "Pasajes aéreos",
+            "5": "Entradas a espectáculos",
+            "6": "Estudios, pensión escolar",
+            "7": "Impuestos",
+            "8": "Otros"
+        }
+    },
+    {
+        "nq": "277",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "278",
+        "question": "¿Utiliza redes sociales en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "279",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line"
+        }
+    },
+    {
+        "nq": "280",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "Otra"
+        }
+    },
+    {
+        "nq": "281",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "Otra"
+        }
+    },
+    {
+        "nq": "282",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "OtraAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "283",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "Otra"
+        }
+    },
+    {
+        "nq": "284",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "Otra"
+        }
+    },
+    {
+        "nq": "285",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line"
+        }
+    },
+    {
+        "nq": "286",
+        "question": "¿Qué redes sociales utiliza?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Facebook",
+            "2": "Twitter",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Instagram",
+            "6": "Youtube",
+            "7": "Skype",
+            "8": "Snapchat",
+            "9": "Line",
+            "10": "Otra"
+        }
+    },
+    {
+        "nq": "287",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "288",
+        "question": "¿Para qué usa las redes sociales en primer lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Conectarse con amigos/familiares",
+            "2": "Conocer gente",
+            "3": "Informarse sobre temas pol �ticos",
+            "4": "Informarse de otras noticias",
+            "5": "Compartir contenidos (noticias, memes, links, mensajes)",
+            "6": "Participar en debates",
+            "7": "Ver videos/fotos",
+            "8": "Hacer negocios",
+            "9": "Apoyar alguna causa o demanda social",
+            "10": "Comprar o vender productos",
+            "11": "Seguir cuentas o p �ginas",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "289",
+        "question": "¿Para qué usa las redes sociales en Segundo lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Conectarse con amigos/familiares",
+            "2": "Conocer gente",
+            "3": "Informarse sobre temas pol �ticos",
+            "4": "Informarse de otras noticias",
+            "5": "Compartir contenidos (noticias, memes, links, mensajes)",
+            "6": "Participar en debates",
+            "7": "Ver videos/fotos",
+            "8": "Hacer negocios",
+            "9": "Apoyar alguna causa o demanda social",
+            "10": "Comprar o vender productos",
+            "11": "Seguir cuentas o p �ginas"
+        }
+    },
+    {
+        "nq": "290",
+        "question": "¿Para qué usa las redes sociales en Tercer lugar lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Conectarse con amigos/familiares",
+            "2": "Conocer gente",
+            "3": "Informarse sobre temas pol �ticos",
+            "4": "Informarse de otras noticias",
+            "5": "Compartir contenidos (noticias, memes, links, mensajes)",
+            "6": "Participar en debates",
+            "7": "Ver videos/fotos",
+            "8": "Hacer negocios",
+            "9": "Apoyar alguna causa o demanda social",
+            "10": "Comprar o vender productos",
+            "11": "Seguir cuentas o p �ginas",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "291",
+        "question": "¿Para qué usa las redes sociales en Cuarto lugar lugar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Conectarse con amigos/familiares",
+            "2": "Conocer gente",
+            "3": "Informarse sobre temas pol �ticos",
+            "4": "Informarse de otras noticias",
+            "5": "Compartir contenidos (noticias, memes, links, mensajes)",
+            "6": "Participar en debates",
+            "7": "Ver videos/fotos",
+            "8": "Hacer negocios",
+            "9": "Apoyar alguna causa o demanda social",
+            "10": "Comprar o vender productos",
+            "11": "Seguir cuentas o p �ginas",
+            "12": "Otro"
+        }
+    },
+    {
+        "nq": "292",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "293",
+        "question": "¿En promedio, cuántos días a la semana utiliza redes socia les?",
+        "qtype": "Numérico",
+        "rtype": "EscalaAtributos",
+        "options": {
+            "estándar": "",
+            "P102": "",
+            "Atributos": "",
+            "estándarAtributos": ""
+        }
+    },
+    {
+        "nq": "294",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "295",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "296",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "297",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "298",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "299",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "300",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "301",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "EscalaAtributos",
+        "options": {
+            "estándar": "",
+            "P103H": "",
+            "Atributos": "",
+            "estándarP103F": "",
+            "P103GAtributos": "",
+            "P103E": "",
+            "estándarAtributos": "",
+            "P103C": "",
+            "P103DAtributos": ""
+        }
+    },
+    {
+        "nq": "302",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "303",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "304",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "305",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "306",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "307",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "308",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "309",
+        "question": "¿En qué horarios utiliza las redes sociales, de lunes a vi ernes?",
+        "qtype": "Numérico",
+        "rtype": "EscalaP103P",
+        "options": {
+            "Atributos": "",
+            "estándarAtributos": "",
+            "estándar": "",
+            "P103O": "",
+            "P103M": "",
+            "P103NP103K": "",
+            "P103LAtributos": "",
+            "P103J": "",
+            "estándarP103I": ""
+        }
+    },
+    {
+        "nq": "310",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "97": "Las 24 horas",
+            "98": "Cualquier momento",
+            "99": "No se conecta"
+        }
+    },
+    {
+        "nq": "311",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "312",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "313",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "314",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "315",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "316",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "EscalaAtributos",
+        "options": {
+            "estándar": "",
+            "P104G": "",
+            "Atributos": "",
+            "estándarAtributos": "",
+            "P104E": "",
+            "P104FP104C": "",
+            "P104DAtributos": ""
+        }
+    },
+    {
+        "nq": "317",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "318",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "319",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "320",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "321",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "322",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "323",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "324",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "EscalaAtributos",
+        "options": {
+            "estándar": "",
+            "P104O": "",
+            "Atributos": "",
+            "estándarP104M": "",
+            "P104NAtributos": "",
+            "P104L": "",
+            "estándarAtributos": "",
+            "P104J": "",
+            "P104KP104H": "",
+            "P104I": ""
+        }
+    },
+    {
+        "nq": "325",
+        "question": "¿Y los fines de semana, en qué horarios utiliza las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "326",
+        "question": "¿En los últimos 6 meses, apoyó alguna causa social o polít ica a través de las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "327",
+        "question": "¿Qué tipo de causa apoyó?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Ecologista",
+            "2": "Derechos humanos",
+            "3": "Derechos de los animales",
+            "4": "Derechos de las mujeres",
+            "5": "Campaña electoral",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "328",
+        "question": "¿Qué tipo de causa apoyó?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Ecologista",
+            "2": "Derechos humanos",
+            "3": "Derechos de los animales",
+            "4": "Derechos de las mujeres",
+            "5": "Campaña electoral",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "329",
+        "question": "¿Qué tipo de causa apoyó?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Ecologista",
+            "2": "Derechos humanos",
+            "3": "Derechos de los animales",
+            "4": "Derechos de las mujeres",
+            "5": "Campaña electoral",
+            "6": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "330",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "331",
+        "question": "¿Las opiniones que usted emite en las redes sociales influ yen sobre todo en ..",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amigos",
+            "2": "Familia",
+            "3": "Compañeros de trabajo/estudio",
+            "4": "Público en general",
+            "5": "Periodistas",
+            "6": "Organizaciones políticas",
+            "7": "Gobierno",
+            "8": "No influyen",
+            "9": "Otro"
+        }
+    },
+    {
+        "nq": "332",
+        "question": "¿Las opiniones que usted emite en las redes sociales influ yen sobre todo en ..",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amigos",
+            "2": "Familia",
+            "3": "Compañeros de trabajo/estudio",
+            "4": "Público en general",
+            "5": "Periodistas",
+            "6": "Organizaciones políticas",
+            "7": "Gobierno",
+            "8": "No influyen",
+            "9": "Otro"
+        }
+    },
+    {
+        "nq": "333",
+        "question": "¿Las opiniones que usted emite en las redes sociales influ yen sobre todo en ..",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amigos",
+            "2": "Familia",
+            "3": "Compañeros de trabajo/estudio",
+            "4": "Público en general",
+            "5": "Periodistas",
+            "6": "Organizaciones políticas",
+            "7": "Gobierno",
+            "8": "No influyen",
+            "9": "OtroAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "334",
+        "question": "Organizaciones pol �ticas �Cu�les?",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "335",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "336",
+        "question": "¿Usted diría que confía, mucho, más o menos, poco o que no confía en la información que circula en las redes sociales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mucho",
+            "2": "Más o menos",
+            "3": "Poco",
+            "4": "No confía",
+            "5": "NS/NR"
+        }
+    },
+    {
+        "nq": "337",
+        "question": "Temas de interés nacional?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "338",
+        "question": "Temas personales y/o familiares?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "339",
+        "question": "Según su opinión ¿cuánto influyó en usted la información y las opiniones de las redes sociales en los últimos procesos electorales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Mucho",
+            "2": "Más o menos",
+            "3": "Poco",
+            "4": "No influyó"
+        }
+    },
+    {
+        "nq": "340",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "341",
+        "question": "¿Usted o alguna persona que conoce ha usado o usa una cuen ta de redes...",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Sí",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "342",
+        "question": "¿Conoció alguna vez personas a través de Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Sí",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "343",
+        "question": "¿Con la persona con la que estableció la relación más larg a... (MESES)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "344",
+        "question": "¿Con la persona con la que estableció la relación más larg a... (AÑOS)",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "345",
+        "question": "¿Qué tipo de relación estableció con esa persona?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amistad",
+            "2": "Relación amorosa",
+            "3": "Laboral",
+            "4": "Política"
+        }
+    },
+    {
+        "nq": "346",
+        "question": "¿Qué tipo de relación estableció con esa persona?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amistad",
+            "2": "Relación amorosa",
+            "3": "Laboral",
+            "4": "Política",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "347",
+        "question": "¿Qué tipo de relación estableció con esa persona?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Amistad",
+            "2": "Relación amorosa",
+            "3": "Laboral",
+            "4": "Política",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "348",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "349",
+        "question": "¿Llegó a conocer físicamente a esa persona?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "350",
+        "question": "¿Pertenece a algún grupo de personas o comunidad...",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si"
+        }
+    },
+    {
+        "nq": "351",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "352",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "353",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "OtrosAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "354",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "355",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "356",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "OtrosP118G",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "357",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "358",
+        "question": "¿Qué intereses comparte con los grupos o comunidades a las que pertenece?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Videojuegos",
+            "2": "Animé, manga o comics",
+            "3": "Software libre",
+            "4": "Tecnología",
+            "5": "Actividades políticas",
+            "6": "Cultura",
+            "7": "Actividad profesional o de estudio",
+            "8": "Deportes",
+            "9": "Educación",
+            "10": "Ecología/ medio ambiente",
+            "11": "Música",
+            "12": "Otros"
+        }
+    },
+    {
+        "nq": "359",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "361",
+        "question": "¿Utiliza Internet para organizar o participar en actividad es políticas",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "362",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "363",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "364",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "OtroP121C",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "365",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "366",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "367",
+        "question": "¿A través de qué plataformas o redes sociales participa de estas actividades?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Correo electrónico",
+            "2": "Facebook",
+            "3": "Whatsapp",
+            "4": "Telegram",
+            "5": "Twitter",
+            "6": "Sitios web",
+            "7": "Otro"
+        }
+    },
+    {
+        "nq": "368",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "369",
+        "question": "¿Ha realizado alguna vez llamadas de voz por Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "371",
+        "question": "Visitar páginas web?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "6": "No realiza actividad",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "372",
+        "question": "Realizar videollamadas?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "6": "No realiza actividad",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "373",
+        "question": "Ver películas?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "6": "No realiza actividad",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "374",
+        "question": "Descargar música, videos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "6": "No realiza actividad",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "375",
+        "question": "Jugar videojuegos?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "6": "No realiza actividad"
+        }
+    },
+    {
+        "nq": "376",
+        "question": "¿Utiliza usted correo electrónico?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "377",
+        "question": "¿Hace cuántos días utilizó por última vez su correo electr ónico?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "98": "Mismo día",
+            "99": "Ns/Nr"
+        }
+    },
+    {
+        "nq": "378",
+        "question": "¿Tiene alguna página o blog en Internet?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "379",
+        "question": "¿Usted utiliza esta página/blog sobre todo para ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Promocionar su actividad económica",
+            "2": "Compartir información",
+            "3": "Compartir música/videos",
+            "4": "Publicar artículos o actividades propias",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "380",
+        "question": "¿Usted utiliza esta página/blog sobre todo para ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Promocionar su actividad económica",
+            "2": "Compartir información",
+            "3": "Compartir música/videos",
+            "4": "Publicar artículos o actividades propias"
+        }
+    },
+    {
+        "nq": "381",
+        "question": "¿Usted utiliza esta página/blog sobre todo para ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Promocionar su actividad económica",
+            "2": "Compartir información",
+            "3": "Compartir música/videos",
+            "4": "Publicar artículos o actividades propias",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "382",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "383",
+        "question": "Noticias nacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "384",
+        "question": "Noticias nacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "385",
+        "question": "Noticias nacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "386",
+        "question": "Noticias internacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "387",
+        "question": "Noticias internacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NRAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "388",
+        "question": "Noticias internacionales?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "389",
+        "question": "Ciencia y Tecnología?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "390",
+        "question": "Ciencia y Tecnología?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro"
+        }
+    },
+    {
+        "nq": "391",
+        "question": "Ciencia y Tecnología?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "392",
+        "question": "Entretenimiento?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "393",
+        "question": "Entretenimiento?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NRAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "394",
+        "question": "Entretenimiento?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "395",
+        "question": "Negocios/oportunidades laborales/bienes o servicios?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "396",
+        "question": "Negocios/oportunidades laborales/bienes o servicios?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NRP133B",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "397",
+        "question": "Negocios/oportunidades laborales/bienes o servicios?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Charlas con amigos",
+            "8": "Otro",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "398",
+        "question": "Rápido",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "399",
+        "question": "Verídico",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "400",
+        "question": "Serio",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno"
+        }
+    },
+    {
+        "nq": "401",
+        "question": "Claro",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "402",
+        "question": "Imparcial",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "403",
+        "question": "Profundo",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "404",
+        "question": "Abierto a su participación",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Tv",
+            "2": "Radio",
+            "3": "Periódicos impresos",
+            "4": "Periódicos digitales",
+            "5": "Páginas web",
+            "6": "Redes sociales",
+            "7": "Ninguno"
+        }
+    },
+    {
+        "nq": "405",
+        "question": "Elaborar, copiar o desplazar texto en un documento y/o bus car, copiar y mover archivos.",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "406",
+        "question": "Enviar y recibir correos electrónicos con archivos adjunto s.",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "407",
+        "question": "Conectar o instalar nuevos dispositivos y/o transferir arc hivos entre la computadora y otro dispositivo",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "409",
+        "question": "¿Ha escuchado o conoce sobre el software libre?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "410",
+        "question": "¿Ha utilizado alguna vez software libre GNU/Linux?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No",
+            "9": "NS/NR"
+        }
+    },
+    {
+        "nq": "412",
+        "question": "¿Aproximadamente qué edad tenía cuando usó Internet por pr imera vez?",
+        "qtype": "Numérico",
+        "rtype": "Escala",
+        "options": {}
+    },
+    {
+        "nq": "414",
+        "question": "¿Cuáles fueron las acciones que tomó para solucionar el pr oblema?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Usó un antivirus",
+            "2": "No hizo nada",
+            "3": "Contactar a un técnico",
+            "4": "Cambiar o actualizar antivirus",
+            "5": "Preguntar a alguien"
+        }
+    },
+    {
+        "nq": "415",
+        "question": "¿Cuáles fueron las acciones que tomó para solucionar el pr oblema?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Usó un antivirus",
+            "2": "No hizo nada",
+            "3": "Contactar a un técnico",
+            "4": "Cambiar o actualizar antivirus",
+            "5": "Preguntar a alguienAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "416",
+        "question": "¿Cuáles fueron las acciones que tomó para solucionar el pr oblema?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Usó un antivirus",
+            "2": "No hizo nada",
+            "3": "Contactar a un técnico",
+            "4": "Cambiar o actualizar antivirus",
+            "5": "Preguntar a alguien"
+        }
+    },
+    {
+        "nq": "418",
+        "question": "Sexo",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Hombre",
+            "2": "Mujer"
+        }
+    },
+    {
+        "nq": "419",
+        "question": "Nivel de instrucción del entrevistado",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Primaria o menos",
+            "2": "Secundaria incompleta",
+            "3": "Secundaria completa",
+            "4": "T�cnico",
+            "5": "Educ. terciaria (FFAA, Policía, Normal)",
+            "6": "Universidad incompleta",
+            "7": "Universidad completa",
+            "8": "Posgrado"
+        }
+    },
+    {
+        "nq": "420",
+        "question": "Estado civil",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Soltero",
+            "2": "Casado/conviviente",
+            "3": "Separado/divorciado",
+            "4": "ViudoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "421",
+        "question": "¿En qué idioma aprendió a hablar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Castellano",
+            "2": "Aymara",
+            "3": "Quechua",
+            "4": "Guaraní",
+            "5": "Otro nativo",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "422",
+        "question": "¿En qué idioma aprendió a hablar? (Otro Nativo)",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Castellano",
+            "2": "Aymara",
+            "3": "Quechua",
+            "4": "Guaraní",
+            "5": "Otro nativo",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "423",
+        "question": "¿En qué idioma aprendió a hablar? (Otro)",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Castellano",
+            "2": "Aymara",
+            "3": "Quechua",
+            "4": "Guaraní",
+            "5": "Otro nativo",
+            "6": "Otro"
+        }
+    },
+    {
+        "nq": "424",
+        "question": "Categoría ocupacional",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Asalariado",
+            "2": "Cuenta propia",
+            "3": "Negocio propio",
+            "4": "Profesional indep.",
+            "5": "Empleador",
+            "6": "Estudiante",
+            "7": "Ama de casa",
+            "8": "Rentista/jubilado",
+            "9": "Sin empleo, buscando",
+            "10": "Sin empleo, no buscaP152",
+            "Atributos": "",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "425",
+        "question": "Nivel de instrucción del jefe de hogar",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Primaria o menos",
+            "2": "Secundaria incompleta",
+            "3": "Secundaria completa",
+            "4": "Técnico",
+            "5": "Educ. terciaria (FFAA, Policía, Normal)",
+            "6": "Universidad incompleta",
+            "7": "Universidad completa",
+            "8": "Posgrado"
+        }
+    },
+    {
+        "nq": "426",
+        "question": "El jefe de hogar tiene ?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "En empleo/trabajo permanente y estable",
+            "2": "A veces tiene trabajo y a veces no",
+            "3": "La mayor parte del tiempo no tiene trabajo",
+            "4": "No tiene trabajo",
+            "5": "Otro"
+        }
+    },
+    {
+        "nq": "427",
+        "question": "Otro",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "428",
+        "question": "¿Cuál es el ingreso mensual promedio en su hogar?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Hasta 1400 Bs.",
+            "2": "1.401-3.500 Bs.",
+            "3": "3.501-5.000 Bs.",
+            "4": "5.001-7.000 Bs.",
+            "5": "7.001-10.000 Bs.",
+            "6": "10.000-14.000Bs.",
+            "7": "14.000-21.000Bs.",
+            "8": "M�s de 21.000 Bs."
+        }
+    },
+    {
+        "nq": "429",
+        "question": "Tiene agua potable en la vivienda?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "430",
+        "question": "Tiene alcantarillado?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "431",
+        "question": "Tiene servicio de energía eléctrica?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "432",
+        "question": "Tiene lavadora de ropa?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "433",
+        "question": "Tiene microondas?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "434",
+        "question": "Tiene calefón o ducha caliente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "435",
+        "question": "Tiene tarjeta de crédito?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "NoAtributos",
+            "estándar": ""
+        }
+    },
+    {
+        "nq": "436",
+        "question": "Tiene casa propia?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "437",
+        "question": "Cantidad de baños en su vivienda",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {}
+    },
+    {
+        "nq": "438",
+        "question": "Automóvil de uso particular, de 2012 o más reciente?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+    {
+        "nq": "439",
+        "question": "En los últimos 5 años realizó algún viaje de vacaciones fu era de América Latina en familia?",
+        "qtype": "Numérico",
+        "rtype": "Nominal",
+        "options": {
+            "1": "Si",
+            "2": "No"
+        }
+    },
+	{
+        "nq": "446",
+        "question": "Ciudad",
+        "qtype": "Cadena",
+        "rtype": "Nominal",
+        "options": {}
+    }
+]
