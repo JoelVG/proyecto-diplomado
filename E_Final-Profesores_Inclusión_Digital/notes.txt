@@ -4,3 +4,8 @@ preguntas más relevantes para nuestro caso de estudio: main_qcodes.txt
 
 columns deleted: (CORRUPTED)
 9,14,59,98,230,234,238,242,253,257,261,265,270,279,352,372,386
+
+TODO:
+- hablar sobre el programa de inclusión digital ya que en el dataset recolectado hay una pregunta sobre si fue parte del mismo
+- dividir en secciones de interés, como: Información personal de los entrevistados,
+- quitamos b1.other. porque es una respuesta de tipo "Otro" (Entrada libre)
