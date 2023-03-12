@@ -2,6 +2,7 @@ ref: https://datos.gob.bo/dataset/encuesta-final-profesores-inclusion-digital
 dataset: profesores_fin
 preguntas más relevantes 1para nuestro caso de estudio: main_qcodes.txt
 notes_qa: algunas notas de las preguntas pre-seleccionadas
+final_questions.txt: preguntas finales seleccionadas con los indicadores
 
 columns deleted: (CORRUPTED)
 9,14,59,98,230,234,238,242,253,257,261,265,270,279,352,372,386
@@ -136,7 +137,6 @@ h1: ¿Sabes qué son las licencias libres?
 h2: ¿Sabes lo que es el conocimiento libre?
 h3: ¿Sabes qué son los datos abiertos?
 l2: ¿Sabe de lo que trata el proyecto Inclusión Digital?
-
 
 
 Necesidades y demandas de la población

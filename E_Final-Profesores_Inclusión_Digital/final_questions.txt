@@ -1,0 +1,60 @@
+accesibilidad:
+a0: ¿Fue parte del proyecto Inclusión Digital?
+c1: ¿Tienen computadora en su casa?
+c4: ¿Tienen tabletas en su casa?
+e1: ¿Tienes acceso a internet en tu casa?
+e2: ¿Tiene acceso a internet en su celular móvil?
+e3: ¿Tienes acceso a internet en el colegio?
+i1: En su unidad educativa ¿Existe un aula específica equipada para el uso de computadoras?
+i2: En su unidad educativa ¿Existe un aula específica equipada para el uso de las KUAA? #relacionar con el proyecto de inclusión digital
+i6: Usted cómo profesor ¿Tuvo acceso a Internet en alguna de las aulas en la cual imparte clases?
+
+utilidad:
+c9.c32.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Juegos]
+c9.c33.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Estudio]
+c9.c34.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Música]
+c9.c35.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Redes Sociales]
+c9.c36.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Ningún uso]
+c9.c37.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Planificar clases]
+c9.c38.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Uso en clases]
+c9.c39.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Vídeos]
+c9.c40.: ¿Cuál es el uso que le da a la computadora de escritorio, portátil o tablet?  [Internet]
+d4: ¿Deja usar los celulares a sus estudiantes?
+i3: ¿Utilizó alguna vez las KUAA para desarrollar sus clases?
+k2.k21.: Los recursos digitales, como vídeos , infografías u otros que usted utiliza en sus clases, mayormente son... [Del internet]
+k6: Integra las KUAA u otras herramientas TIC en sus clases, para que el estudiante logre identificar, localizar, recuperar, almacenar, organizar y analizar la información digital, evaluando su finalidad y relevancia.
+k7: Integra las KUAA u otras herramientas TIC, para que el estudiante logre crear, a partir de los contenidos que estudia, vídeos, presentaciones, infografías o audios.
+k8: Integra las KUAA u otras herramientas TIC para que el estudiante logre comunicarse en entornos digitales y compartir recursos a través de herramientas en línea.
+j11.SQ001.: [¿Usted ha incorporado las KUAA u otras herrmaientasTIC como  medios para desarrollar el proceso de enseñanza y aprendizaje?]
+j11.SQ005.: [Pensó en integrar las KUAA u otras herramientas TIC, al proceso de enseñanza- aprendizaje de los estudiantes mediante el uso de metodologías activas, como el Aprendizaje basado en Problema, Aprendizaje basado en proyecto, Aprendizaje basado en estudio de Caso,  Aprendizaje basado en Retos. ]
+j11.SQ006.: [Para integrar las KUAA u otras herramienta TIC en las clases recabó o recabaría información del director]
+j11.SQ007.: [Para integrar las KUAA u otras herramienta TIC en las clases recabó o recabaría información del responsable de la comisión pedagógica.]
+j11.SQ008.: [Para integrar las KUAA u otras herramienta TIC en las clases recabó o recabaría información de otros maestros.]
+
+fiabilidad:
+j2: Usted se encuentra en la posibilidad de brindar 20 minutos de su clase para la enseñanza de herramientas de software libre para la generación de contenidos por parte de los estudiantes
+m8: Con fases de capacitación mas intensivas ¿usted cree que puede adecuar sus futuras clases a este nuevo modelo de enseñanza aprendizaje que incorpora las TIC?
+
+soporte_tecnico:
+m1: ¿Como califica la capacitación brindada por el proyecto Inclusión Digital?
+
+alfabetizacion:
+b1.b11.: ¿Cuál es el nivel de instrucción adquirido? [Profesor Normalista]
+b1.b12.: ¿Cuál es el nivel de instrucción adquirido? [Técnico]
+b1.b13.: ¿Cuál es el nivel de instrucción adquirido? [Licenciatura]
+b1.b14.: ¿Cuál es el nivel de instrucción adquirido? [Especialidad]
+b1.b15.: ¿Cuál es el nivel de instrucción adquirido? [Maestría]
+b1.b16.: ¿Cuál es el nivel de instrucción adquirido? [Doctorado]
+b8: ¿Pasó algún tipo de curso o capacitación respecto al uso de tecnologías en aula?
+f1.f11.: ¿Sabe... [elaborar, copiar o desplazar texto en un documento y/o buscar, copiar y mover archivos?]
+f1.f12.: ¿Sabe... [enviar y abrir correos electrónicos con archivos adjuntos?]
+f1.f13.: ¿Sabe... [conectar o instalar nuevos dispositivos y/o transferir archivos entre la computadora y otro dispositivo?]
+f1.f14.: ¿Sabe... [buscar, instalar y configurar programas y/o aplicaciones desde su celular ?]
+f1.f15.: ¿Sabe... [buscar, instalar y configurar programas y/o aplicaciones desde su computadora ?]
+f1.f16.: ¿Sabe... [conectarse a una red wifi desde una laptop?]
+f1.f17.: ¿Sabe... [conectarse a una red wifi desde un teléfono móvil?]
+g2: ¿Sabes que es el Software Libre?
+h1: ¿Sabes qué son las licencias libres?
+h2: ¿Sabes lo que es el conocimiento libre?
+h3: ¿Sabes qué son los datos abiertos?
+l2: ¿Sabe de lo que trata el proyecto Inclusión Digital?
