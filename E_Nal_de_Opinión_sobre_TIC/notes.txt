@@ -1,1 +1,63 @@
 ref: https://datos.gob.bo/dataset/encuesta-nacional-de-opinion-sobre-tic
+dataset: enal_final_clnd
+preguntas más relevantes para nuestro caso de estudio: main_qcodes.txt
+notes_qa: algunas notas de las preguntas pre-seleccionadas
+final_questions.txt: preguntas finales seleccionadas con los indicadores
+
+el dataset final enal_final_cln ya está filtrado únicamente con la respuesta de estudiantes
+(p152: ocupación >> podemos filtrar a solo estudiantes (op 6) col 428)
+
+SELECCIÓN DE PREGUNTAS SEGÚN INDICADORES:
+para las preguntas ^p11 pueden ser múltiples respuestas a :¿Qué usos le da usted a estos equipos?
+
+// para preguntas ^p11
+op1_util = {
+    1: 0.8,#"Herramienta de trabajo"
+    2: 0.8,#"Escuchar música o ver videos",
+    3: 0.5,#"Juegos",
+    4: 1,#"Conectarse a Internet",
+    5: 1,#"Estudio",
+}
+
+// para preguntas ^p27 USO del internet
+las preguntas siguientes serán ignoradas:
+P27G: Otro
+P27D: ¿Tiene celular?
+
+// para ^p46
+ op2_util = {
+            1: 0.5,#"Contactar amigos o familiares",
+            2: 1,#"Buscar información",
+            3: 0,#"Comprar, vender o permutar",
+            4: 1,#"Fines académicos",
+            5: 0.8,#"Trabajo",
+            6: 0.8,#"Ver noticias",
+            7: 0.8,#"Descargar archivos",
+            8: 0,#"Jugar",
+            9: 0.5,#"Escuchar música o ver videos",
+            10: 0,#"Redes sociales",
+            11: 0.8,#"Correo electrónico",
+            12: 0,#"Otro"
+ }
+// para: P68
+op3_util = {
+            1: 1,#"El Colegio",
+            2: 1,#"La Universidad",
+            3: 0,#"No usa/no usó"
+}
+
+// PARA TABLEAU
+P1A: ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?
+P1B: ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?
+P1C: ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?
+P1D: ¿Cuáles son las razones por las cuales no se conecta a Internet regularmente?
+{
+            1: "No existe el servicio en el barrio/localidad",
+            2: "El costo del servicio alto",
+            3: "No tiene equipos para conectarse",
+            4: "No sabe qué es Internet",
+            5: "No sabe cómo usar Internet",
+            6: "No está interesado en Internet",
+            7: "El contenido de Internet es malo",
+            8: "Otro"
+}

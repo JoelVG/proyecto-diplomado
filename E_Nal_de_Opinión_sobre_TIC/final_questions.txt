@@ -1,0 +1,25 @@
+accesibilidad:
+P2: ¿Usted ha navegado por Internet o se ha conectado a alguna r ed social a través de Internet?
+P6: ¿Tiene computadora de escritorio, computadora portátil o tab let en su casa?
+P12: ¿Tiene televisor en su casa?
+P16: ¿En su casa usted tiene servicio de TV Cable?
+P17: ¿En su casa usted tiene servicio de TV Satelital?
+P20: ¿Tiene radio en su casa?
+P23: ¿Tiene Internet fijo en su casa?
+P68: ¿Utiliza o utilizaba Internet en?
+utilidad:
+P11A: ¿Qué usos le da usted a estos equipos?
+P11B: ¿Qué usos le da usted a estos equipos?
+P11C: ¿Qué usos le da usted a estos equipos?
+P11F: ¿Qué usos le da usted a estos equipos?
+P27A: ¿Para qué usa mayormente esta conexión a Internet?
+P27B: ¿Para qué usa mayormente esta conexión a Internet?
+P27C: ¿Para qué usa mayormente esta conexión a Internet?
+P46A: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46B: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46C: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46E: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46F: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46G: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46H: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
+P46I: ¿Cuáles de las siguientes actividades realiza con más frecuencia en el Internet?
