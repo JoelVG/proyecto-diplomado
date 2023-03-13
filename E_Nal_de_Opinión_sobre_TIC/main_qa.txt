@@ -9,6 +9,11 @@ p11a
 p11b
 p11c
 p11f
+p12
+p16
+p17
+p20
+p23
 p27a
 p27b
 p27c

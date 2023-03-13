@@ -24,7 +24,7 @@ las preguntas siguientes serán ignoradas:
 P27G: Otro
 P27D: ¿Tiene celular?
 
-// para ^p46
+// para ^p46 y ^p27
  op2_util = {
             1: 0.5,#"Contactar amigos o familiares",
             2: 1,#"Buscar información",
