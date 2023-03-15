@@ -1,0 +1,25 @@
+CORRECCIONES:
+- DONE# DESCRIBIR MÁS LOS DATASETS (cantidad de encuestados) 3.3.1 describir poco más los datos, encuestados y demás
+- DONE# DESCRIBIR EL CONTEXTO de los datasets
+- e1,e2,e3 análisis internet
+- relacionar accesibilidad(internet) y alfabetización
+- DONE recomendaciones > internet para colegios a travez de medios ongs, entidades públicas, etc
+- aristas de las kuaas CAP 4
+- DONE sugerencias: encuesta actualizadas con las nuevas tecnologías (post-pandemia), capacitaciones en las mismas
+
+
+-------------------------------------
+- relacionar edad y motivos para el uso del internet
+- verificar rural/urbano > relacionar con coste de internet
+- separar internautas y no internautas
+- fomentar la inclusión digital enfocándonos a la accesibilidad
+
+•	El rechazo de las TICs es mayor en la población rural.
+•	El rechazo de las TICs se debe a la falta de información sobre las mismas.
+
+- CONSULTAR:
+* conclusión de las hipótesis de profesores? cubrir las 2 hipótesis o modificarlas?
+* tabla con los indicadores, se entiende?
+* definir tabla de indicadores para el dataset de internautas, no internautas
+* definir aristas para el dataset de internautas e hipótesis a probar o resaltar insights
+* buscar con qué comparar los resultados (actualmente con Chile)
