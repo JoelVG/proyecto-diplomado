@@ -1,0 +1,32 @@
+OBS:
+- cambio de título: especificar tecnología, con qué se hace o por qué
+- 
+
+
+Figura 1: Mapa de Bolivia. (2022). Google Earth.	9
+Figura 2: Flujograma metodológico (Elaboración Propia)	10
+Figura 3: Tabla de puntaje de factores	23
+Figura 4: Dashboard de accesibilidad (Elaboración propia)	24
+Figura 5: Participantes del programa Inclusión digital por ciudad (Elaboración propia)	25
+Figura 6:Relación entre el indicador de Accesibilidad y Alfabetización (Elaboración propia)	26
+Figura 7: Principales resultados de las evaluaciones del Banco Mundial y Dipres	27
+
+Figura 31: Mapa de Bolivia. (2022). Google Earth.	9
+Figura 32: Flujograma metodológico (Elaboración Propia)	10
+Figura 42: Dashboard de accesibilidad (Elaboración propia)	24
+
+
+Tabla 1: Muestra de Preguntas relacionadas al uso de computadoras. Extraídas del dataset: Encuesta Final-Profesores de Inclusión Digital	15
+Tabla 2: Ponderación de las preguntas de la Tabla 1	15
+Tabla 3:Muestra de Preguntas relacionadas al nivel de educación adquirido. Extraídas del dataset: Encuesta Final-Profesores de Inclusión Digital	15
+Tabla 4: Ponderación de las preguntas de la Tabla 3	16
+Tabla 5:Muestra del dataset: Encuesta Final-Profesores de Inclusión Digital	17
+Tabla 6: Muestra del diccionario de datos del dataset: Encuesta Final-Profesores de Inclusión Digital	17
+Tabla 7: Muestra del diccionario de datos de "Encuesta Nacional de Opinión sobre TIC"	18
+Tabla 9: Muestra de preguntas preseleccionadas del dataset: Encuesta Final-Profesores de Inclusión Digital	19
+Tabla 10: Muestra de preguntas preseleccionadas del dataset: "Encuesta Nacional de Opinión sobre TIC"	21
+
+Tabla 31: Muestra de Preguntas relacionadas al uso de computadoras. Extraídas del dataset: Encuesta Final-Profesores de Inclusión Digital	15
+Tabla 32: Ponderación de las preguntas de la Tabla 1	15
+Tabla 33: Muestra de Preguntas relacionadas al nivel de educación adquirido. Extraídas del dataset: Encuesta Final-Profesores de Inclusión Digital	15
+Tabla 34: Ponderación de las preguntas de la Tabla 33	16
