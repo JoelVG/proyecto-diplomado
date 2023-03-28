@@ -1,5 +1,5 @@
 accesibilidad:
-P2: ¿Usted ha navegado por Internet o se ha conectado a alguna r ed social a través de Internet?
+P2: ¿Usted ha navegado por Internet o se ha conectado a alguna red social a través de Internet?
 P6: ¿Tiene computadora de escritorio, computadora portátil o tab let en su casa?
 P12: ¿Tiene televisor en su casa?
 P16: ¿En su casa usted tiene servicio de TV Cable?
