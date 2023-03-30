@@ -1,2 +1,4 @@
 .ipynb_checkpoints*
 .~lock*
+/ookta_data/performance
+/ookta_data/shapefiles

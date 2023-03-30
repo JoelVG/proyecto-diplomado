@@ -2,3 +2,7 @@ jupyterlab==3.5.3
 pandas==1.5.3
 PyPDF2==3.0.1
 ipython==8.9.0
+pyarrow==11.0
+geopandas==0.12
+palettable==3.3
+seaborn==0.12
