@@ -1,2 +1,10 @@
 La implementación de políticas de apoyo a la implementación de las Tecnologías de la Información y la Comunicación (TICs) en el sistema educativo es crucial en la actualidad. Esto se debe a que las TICs ofrecen una gran cantidad de herramientas y recursos que pueden mejorar la calidad del aprendizaje y la enseñanza, haciendo que el proceso educativo sea más eficiente y efectivo. Además, las TICs pueden mejorar el acceso a la educación para estudiantes en zonas rurales o alejadas, así como para aquellos con discapacidades o necesidades especiales.
 
+In [4]: 6.3/13
+Out[4]: 0.4846153846153846
+318 NO
+
+In [2]: 7.4/13
+Out[2]: 0.5692307692307692
+211 SI
+
