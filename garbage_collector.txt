@@ -8,3 +8,8 @@ In [2]: 7.4/13
 Out[2]: 0.5692307692307692
 211 SI
 
+
+
+La alfabetización digital es fundamental para el sistema educativo presente y futuro. Esto se debe a que en la actualidad vivimos en una sociedad digital en la que las habilidades tecnológicas son cada vez más necesarias para la vida cotidiana y el mundo laboral. Los estudiantes y profesores necesitan tener habilidades digitales para poder ser ciudadanos activos en la sociedad y poder competir en el mercado laboral actual y futuro. Asimismo, la alfabetización digital permite a los estudiantes desarrollar habilidades críticas y creativas para resolver problemas y tomar decisiones informadas en la sociedad digital.
+
+El involucrar a los actores clave en la toma de decisiones, como son los educadores, los estudiantes, los padres de familia y los expertos en tecnología. Es fundamental que se establezca un diálogo abierto y constructivo entre todos los involucrados para poder definir políticas efectivas y adecuadas a las necesidades de la educación boliviana en cuanto al uso de las TICs. Además, esto permitirá una mayor apropiación y compromiso de los actores involucrados en la implementación y seguimiento de las políticas definidas.
